@@ -1,0 +1,87 @@
+@import url('https://fonts.google.com/specimen/Outfit');
+
+:root{
+    --Slate300: hsl(212, 45%, 89%);
+    --Slate500: hsl(216, 15%, 48%);
+    --Slate900: hsl(218, 44%, 22%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    background-color: var(--Slate300);
+    font-family: 'Outfit', serif;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+/* Contenedor de tarjeta */
+
+.card__container{
+    width: 1440px;
+    margin: 0 auto;
+    border-radius: 18px;
+    padding: 18px;
+    background-color: #fff;
+    text-align: center;
+
+    img{
+        width: 100%;
+        border-radius: 12px;
+    }
+
+    .card__text{
+        padding: 20px 10px;
+    }
+
+    h2{
+        color: var(--Slate900);
+        padding-bottom: 20px;
+    }
+
+    p{
+        color: var(--Slate500);
+        padding-bottom: 20px;
+    }
+
+}
+
+footer{
+    padding-bottom: 20px;
+}
+
+
+/* Resolucion mobile */
+
+@media screen and (min-width:375px){
+    
+    body{
+        min-width: auto;
+        min-height: 70vh;
+        margin-top: 100px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .card__container{
+        max-width: 310px;
+        margin: 0 auto;
+    }
+
+    img{
+        width: 70%;
+    }
+
+
+}
+
+
+
