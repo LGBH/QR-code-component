@@ -1,0 +1,49 @@
+¿De qué estás más orgulloso y qué harías diferente la próxima vez?
+
+Emprender, descubrir, enfrentarse y crear soluciones a escalas personales aplicadas al desarrollo web. Tener documentación en la que indagar, principalmente porque no recuerde todos
+los conceptos y/o dudo de algún tema en es especifico y más importante no crear o reorganizar temas que ya
+están... claro está, si no lo amerita.
+
+Después de traducir:
+
+Emprender, descubrir, afrontar y crear soluciones a escala personal aplicadas al desarrollo web. Contar con documentación para profundizar los conceptos y/o dudas, respecto al tema y lo más importante, no crear ni reorganizar temas que ya existen... claro, si no está justificado.
+
+Traducción:
+
+What are you most proud of, and what would you do differently next time?
+
+Undertake, discover, face and create solutions on a personal scale applied to web development. Have documentation to deepen the concepts and/or doubts regarding the topic and most importantly, do not create or reorganize topics that already exist... of course, if it is not justified.
+
+
+¿Qué desafíos encontraste y cómo los superaste?
+
+What challenges did you encounter, and how did you overcome them?
+
+No recordar conceptos en css. Consultando videos y recordando conceptos en la documentación oficial.
+
+Traducción:
+
+What challenges did you encounter, and how did you overcome them?
+
+Not remembering concepts in CSS. Consulting videos and remembering concepts in the official documentation.
+
+
+¿Con qué áreas específicas de su proyecto le gustaría ayudar?
+
+What specific areas of your project would you like help with?
+
+
+Principalmente con el diseño. Quiero dominar la estructura y organización de los estilos y no está demás reforzar con HTML.
+
+Después de traducir:
+
+Principalmente con el diseño. Quiero dominar la estructura y organización de estilos y no está de más reforzar mis conocimientos con HTML.
+
+Traducción: 
+
+Mainly with the design. I want to master the structure and organization of styles and it doesn't hurt to reinforce my knowledge with HTML.
+
+02/02/2025
+1:26 PM
+91% PC
+LGBH
